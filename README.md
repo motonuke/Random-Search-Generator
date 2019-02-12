@@ -16,5 +16,6 @@ Example:
 
 ```PowerShell
 rsg.ps1 -WordList .\english-word-list.txt -DesktopLoops 50 -MobileLoops 25 -Interactive
+```
 
 I've included a curated word list that should have most english language curse words removed. 
