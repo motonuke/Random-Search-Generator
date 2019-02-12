@@ -4,7 +4,7 @@ This script will randomly search based on a provided word list file. The script 
 
 There are the following parameters available:
 
--WordList         Provide the full path to a word list file to generate psuedo random searches
+-WordList        Provide the full path to a word list file to generate psuedo random searches
 
 -DesktopLoops     [Optional, Defaults to 36] Specify the number of searches to perform on the Desktop based browser
 
