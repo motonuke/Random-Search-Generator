@@ -1,6 +1,6 @@
 # Random-Search-Generator
 
-This script will randomly search based on a provided word list file. 
+This script will randomly search based on a provided word list file. The script relies on a signed in account in both Edge and Chrome. Additionally a Chrome UA tool should be installed to force a mobile UA.
 
 There are 2 versions:
 
